@@ -1,7 +1,7 @@
 # Music Library System
 
 A Python `Song` class built for a music streaming library. Beyond storing basic
-song info, the class tracks library-wide stats across every song ever created —
+song info, the class tracks library-wide stats across every song ever created:
 total song count, unique genres, unique artists, and per-genre / per-artist
 song counts.
 
